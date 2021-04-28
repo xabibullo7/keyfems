@@ -1,0 +1,16 @@
+@mixin  aligment () {
+    
+}
+
+
+
+
+
+
+header {
+    @include aligment () ;
+    width: 100%;
+    height: 50px;
+    background-color: violet;
+    text-align: center;
+}
